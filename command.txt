@@ -1,6 +1,17 @@
-command for checking git version:  git version
-command for listing config details:  git config --list
-command for adding username:  git config --global user.email "example@gmail.com"
-command for initialising git respository:  git init
-command for adding all untracked files to staging area:  git add -A  or   git add .
-command for adding staged files to local repository:  git commit -m "commit message"
+command for checking git version:
+   git version
+
+command for listing config details:
+   git config --list
+
+command for adding username:
+   git config --global user.email "example@gmail.com"
+
+command for initialising git respository:  
+   git init
+
+command for adding all untracked files to staging area:  
+   git add -A  or   git add .
+   
+command for adding staged files to local repository:  
+    git commit -m "commit message"
