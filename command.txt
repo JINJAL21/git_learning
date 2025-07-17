@@ -1,0 +1,3 @@
+command for checking git version:  git version
+command for listing config details:  git config --list
+command for adding username:  git config --globl user.email "example@gmail.com"
