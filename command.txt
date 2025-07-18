@@ -24,4 +24,6 @@ command for adding remote repository to local repository:
 
 command for pushing local repository to remote repository:
    git push name branch
-   
+
+command for getting branch name:
+   git branch
